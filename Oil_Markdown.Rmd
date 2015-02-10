@@ -1,0 +1,23 @@
+---
+title: "What affects Oil’s Prices"
+author: "Finance and Investments Team"
+date: "February 10, 2015"
+output: 
+  html_document:
+    self_contained: false
+---
+
+## Slide One
+
+WHAT AFFECTS OIL’s PRICES?    
+
+The oil price is determined mainly by several factors that can be classified into:
+
+* Current and Expected Supply
+* Current and Expected Demand
+* Inventories or Physical Balancing
+* Markets and Market Behavior  
+
+```{r, echo=FALSE}
+plot(cars)
+```
